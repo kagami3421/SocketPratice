@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketPratice_Core", "SocketPratice\SocketPratice_Core.csproj", "{2667A445-A29B-47FD-8363-7CA21E18B4B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketPratice_Core", "SocketPratice_Core\SocketPratice_Core.csproj", "{2667A445-A29B-47FD-8363-7CA21E18B4B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketPratice", "SocketPratice_Client\SocketPratice.csproj", "{5CAE7289-62A7-41E7-B9E0-A4BD20F7DD1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketPratice", "SocketPratice\SocketPratice.csproj", "{5CAE7289-62A7-41E7-B9E0-A4BD20F7DD1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
