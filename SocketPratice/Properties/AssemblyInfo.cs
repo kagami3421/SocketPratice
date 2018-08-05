@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SocketPratice")]
+[assembly: AssemblyTitle("SocketPratice_Client")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SocketPratice")]
+[assembly: AssemblyProduct("SocketPratice_Client")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2667a445-a29b-47fd-8363-7ca21e18b4b5")]
+[assembly: Guid("5cae7289-62a7-41e7-b9e0-a4bd20f7dd1a")]
 
 // Version information for an assembly consists of the following four values:
 //
